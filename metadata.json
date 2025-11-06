@@ -1,0 +1,5 @@
+{
+  "name": "Angular PDF Designer",
+  "description": "A visual tool to design PDF layouts and generate TypeScript code using jsPDF for easy integration into Angular applications. Users can add and manipulate text, images, and lines, customize properties like size, font, and opacity, and export the design as ready-to-use code.",
+  "requestFramePermissions": []
+}
